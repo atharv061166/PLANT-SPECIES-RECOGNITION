@@ -25,7 +25,7 @@ To run this project, ensure you have the following dependencies installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/plant-recognition-system.git
+   git clone https://github.com/atharv061166/plant-recognition-system.git
    cd plant-recognition-system
    ```
 
